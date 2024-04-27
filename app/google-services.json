@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "195849743836",
+    "project_id": "fir-exople",
+    "storage_bucket": "fir-exople.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195849743836:android:ecb3831b17b2cb8155f319",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvJGFHhosx61Dpg737zU2jti_Be7w6DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195849743836:android:7a989840e5943d4555f319",
+        "android_client_info": {
+          "package_name": "com.example.picerie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvJGFHhosx61Dpg737zU2jti_Be7w6DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
